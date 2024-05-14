@@ -84,3 +84,7 @@
 .img-link:hover{
     transform: scale(1.1) rotate(360deg);
 }
+
+a {
+    outline: none;
+}

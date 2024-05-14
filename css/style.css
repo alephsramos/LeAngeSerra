@@ -10,6 +10,7 @@
 .sec1{
     height: 100vh;
     background-size: contain;
+    overflow: hidden;
 }
 
 .logo-div{

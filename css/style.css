@@ -10,7 +10,6 @@
 .sec1{
     height: 100vh;
     background-size: contain;
-    filter: drop-shadow(0px 0px 10000px rgb(0, 0, 0, 1));
 }
 
 .logo-div{
@@ -40,7 +39,7 @@
     border-radius: 10px;
     text-align: center;
     background-color: #ffffff;
-    box-shadow: 0px 0px 10px rgb(24, 89, 94);
+    box-shadow: 0px 0px 10px rgb(24, 89, 94, 0.5);
     color: rgb(24, 89, 94);
     font-weight: 500;
 }
@@ -48,7 +47,7 @@
 .paragrafo1{
     font-size: 1.5rem;
     background-color: #ffffff;
-    box-shadow: 0px 0px 10px rgb(24, 89, 94);
+    box-shadow: 0px 0px 10px rgb(24, 89, 94, 0.5);
     border-radius: 10px;
     padding: 5px 5px;
     color: rgb(24, 89, 94);
@@ -61,7 +60,7 @@
 .paragrafo2{
     font-size: 1rem;
     background-color: #ffffff;
-    box-shadow: 0px 0px 20px rgb(24, 89, 94);
+    box-shadow: 0px 0px 20px rgb(24, 89, 94, 0.5);
     border-radius: 5px;
     padding: 5px 5px;
     color: rgb(24, 89, 94);
@@ -79,7 +78,6 @@
 
 .img-link{
     width: 400px;
-    filter: drop-shadow(0px 0px 6px rgb(24, 89, 94, 0.4));
     transition: transform 0.5s ease-in-out;
 }
 

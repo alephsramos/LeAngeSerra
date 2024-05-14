@@ -98,20 +98,20 @@
 @media only screen and (min-width: 1201px) and (max-width: 2000px){
 
     .logo{
-        width: 180px;
+        width: 140px;
         margin-top: 0%;
         margin-bottom: -4%;
     }
 
     .titulo1{
-        font-size: 2.8rem;
+        font-size: 2.4rem;
         margin-top: 5%;
         padding: 5px 20px;
         border-radius: 5px;
     }
 
     .paragrafo1{
-        font-size: 1.9rem;
+        font-size: 1.5rem;
         border-radius: 5px;
         padding: 5px 5px;
         margin-top: 10px;
@@ -125,7 +125,7 @@
     }
 
     .img-link{
-        width: 500px;
+        width: 400px;
         transition: transform 0.5s ease-in-out;
     }
     
@@ -137,7 +137,7 @@
         font-size: 1rem;
         border-radius: 5px;
         padding: 5px 5px;
-        margin-top: 5%;
+        margin-top: 8%;
         width: 25%;
     }
 

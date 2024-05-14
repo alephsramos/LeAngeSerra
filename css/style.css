@@ -79,7 +79,7 @@
 
 .img-link{
     width: 400px;
-    filter: drop-shadow(0px 0px 6px rgb(24, 89, 94, 1));
+    filter: drop-shadow(0px 0px 6px rgb(24, 89, 94, 0.4));
     transition: transform 0.5s ease-in-out;
 }
 

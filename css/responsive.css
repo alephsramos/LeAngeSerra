@@ -30,7 +30,6 @@
 
     .img-link{
         width: 230px;
-        transition: transform 0.5s ease-in-out;
     }
     
     .img-link:hover{
@@ -78,7 +77,6 @@
 
     .img-link{
         width: 500px;
-        transition: transform 0.5s ease-in-out;
     }
     
     .img-link:hover{
@@ -126,7 +124,6 @@
 
     .img-link{
         width: 400px;
-        transition: transform 0.5s ease-in-out;
     }
     
     .img-link:hover{

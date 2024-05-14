@@ -10,7 +10,6 @@
 .sec1{
     height: 100vh;
     background-size: contain;
-    overflow: hidden;
 }
 
 .logo-div{
@@ -83,5 +82,5 @@
 }
 
 .img-link:hover{
-    transform: scale(1.3) rotate(360deg);
+    transform: scale(1.1) rotate(360deg);
 }

@@ -95,25 +95,29 @@
 
 @media only screen and (min-width: 1201px) and (max-width: 2000px){
 
+    .sec1{
+        height: 100vh;
+    }
+
     .logo{
-        width: 140px;
+        width: 120px;
         margin-top: 0%;
         margin-bottom: -4%;
     }
 
     .titulo1{
-        font-size: 2.4rem;
+        font-size: 1.5rem;
         margin-top: 5%;
         padding: 5px 20px;
         border-radius: 5px;
     }
 
     .paragrafo1{
-        font-size: 1.5rem;
+        font-size: 1rem;
         border-radius: 5px;
         padding: 5px 5px;
         margin-top: 10px;
-        width: 65%;
+        width: 45%;
     }
 
     .link{
@@ -123,7 +127,7 @@
     }
 
     .img-link{
-        width: 400px;
+        width: 200px;
     }
     
     .img-link:hover{
@@ -135,7 +139,7 @@
         border-radius: 5px;
         padding: 5px 5px;
         margin-top: 8%;
-        width: 25%;
+        width: 35%;
     }
 
 }

@@ -74,11 +74,13 @@
     display: flex;
     align-items: center;
     margin-top: 8%;
+    outline: none !important;
 }
 
 .img-link{
     width: 400px;
     transition: transform 1.5s ease-in-out;
+    outline: none !important;
 }
 
 .img-link:hover{

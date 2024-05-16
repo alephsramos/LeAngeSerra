@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     var audio = document.getElementById("audio");
-    var link = document.querySelector(".img-link");
+    var link = document.querySelector(".link");
 
     link.addEventListener("click", function(event) {
         event.preventDefault(); // Evita que o link seja seguido
